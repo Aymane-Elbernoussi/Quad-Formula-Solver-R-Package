@@ -1,0 +1,11 @@
+Package: AymaneQuadraticSolver
+Title: Solves Quadratic Formulations with Three Inputs Automatically 
+Version: 3.2
+Authors@R: "Aymane Elbernoussi <aelbernoussi@usf.edu> [aut]"
+Description: This package will solve your mathamatical struggles with Quadratic Formuala
+        The package will run three inputs to successfully give you an ansswer immediately
+        If the inputs are not perfect this package will also let you know that.
+Depends: R (>= 3.1.2)
+License: CC0
+ LazyData: true
+RoxygenNote: 7.1.2
