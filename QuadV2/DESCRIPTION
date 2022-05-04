@@ -1,0 +1,9 @@
+Package: QuadV2
+Type: Package
+Title: Solves Quadratic Formulations with Three Inputs Automatically 
+Version: 0.1.0
+Author: Aymane Elbernoussi 
+Description: This package will solve your mathamatical struggles with Quadratic Formuala The package will run three inputs to successfully give you an ansswer immediately If the inputs are not perfect this package will also let you know that.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.2
